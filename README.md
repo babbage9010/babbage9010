@@ -2,7 +2,7 @@
 - 👀 I’m interested in quantitative trading
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on quant_rv, my quantitative ETF trading strategy based on realized volatility.
-- which you can read about at the blog [https://babbabe9010.wordpress.com/](https://babbabe9010.wordpress.com/)
+- which you can read about at the blog [https://babbage9010.wordpress.com/](https://babbage9010.wordpress.com/)
 - 📫 I'm on twitter @babbage9010
 
 <!---
